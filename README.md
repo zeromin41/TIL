@@ -1,4 +1,4 @@
-# TIL (Today I Learned) - feat. WIL (What I Learned)
+# TIL (Today I Learned) - On Vacation
 
 [![Blog](https://img.shields.io/badge/Blog-binghe.github.io-green.svg)](https://zeromin41.github.io/)
 
