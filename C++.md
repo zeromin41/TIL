@@ -72,5 +72,34 @@ foreach(int num in numbers)
 	Console.WriteLine(num);
 }
 
+### 딕셔너리
+
+KeyValuePair<TKey,TValue>                     
+
+//<키,값>
+
+Dictionary<string, string> dic;                              
+
+//dic 변수
+
+dic = new Dictionary<string, string>();
+dic.Add(“홍길동”, “01000000000”);
+string hongNumber = dic[“홍길동”];
+Console.WriteLine(hongNumber);  
+
+//01000000000 출력
+
+public TValue this[TKey key] {get; set;}    
+
+//지정된 키에 연결된 값을 가져옴
+
+변수.ContainsKey         
+
+//키를 가지고 있는지
+
+변수.Count         
+
+// 요소 개수
+
 
 
