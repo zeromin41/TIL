@@ -11,3 +11,4 @@
 ## C++
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%2B%2B.md)
  - 2023-07-02 [기본 객체](https://github.com/zeromin41/TIL/blob/main/C%2B%2B01.md)
+ - 2023-07-03 [기본 함수](https://github.com/zeromin41/TIL/blob/main/C%2B%2B02.md)
