@@ -21,3 +21,4 @@
  - 2023-07-10 [메서드 호출](https://github.com/zeromin41/TIL/blob/main/C%23/C%2309.md)
 ## 파이썬
  - 2023-07-11 [변수](https://github.com/zeromin41/TIL/blob/main/Python/Python00.md)
+ - 2023-07-12 [객체](https://github.com/zeromin41/TIL/blob/main/Python/Python01.md)
