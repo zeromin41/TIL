@@ -24,6 +24,13 @@ cat -옵션 [파일]
 
 -A        : -vET와 같음. 탭(TAB), 줄바꿈(LFD)을 포함한 nonprinting 문자 표시.
 
+```
+cat > [파일]
+
+내용입력
+```
+입력한 내용을 가진 파일을 생성함.
+
 
 ```
 cat FILE1 - FILE2
@@ -84,3 +91,50 @@ a : added (추가)
 d : deleted (삭제)
 
 2 : 수정한 결과 line 수 (3 line 에서 한줄 삭제해서 2 line 이 됨)
+
+#### find 명령어
+
+```
+find [경로] [옵션]
+```
+
+계층구조로 이루어진 디렉토리 내에 존재하는 파일들을 검색 하는 기능
+
+* -type
+   특정 디렉토리 내의 특정 타입에 해당하는 파일들을 찾음
+  * -l : 심볼릭 링크 파일
+  * -f : 일반 파일
+  * -d : 디렉토리
+* -name
+   파일명으로 검색
+  * . : 현재 Path를 시작지점으로 지정
+  * [] : 파일명으로 올 수 있는 문자의 종류 및 순서, 범위를 지정 (정규식과 유사)
+  * ? : 한 글자를 의미, 어떠한 문자도 올 수 있음
+ 
+  ex
+  ```
+  # image.img 파일을 찾을 때
+  $ find . -name image.img
+
+  # m1.jpg, m2.jpg 와 같이 "m + 한글자 숫자" 를 찾을 때
+  $ find . -name 'm?.jpg'
+
+  # json 파일 전부 찾고 싶을 떄
+  $ find . -name *.json
+
+  # 디렉토리중 te 로 시작하는 목록
+  $ find . -type d -name '[t][e]*'
+  ```
+* -size
+  파일 사이즈로 검색
+  * c : byte
+  * w : 2 byte word
+  * k : Kilobytes
+  * M : Megabytes
+  * G : Gigabytes
+ 
+* atime : access time
+* ctime : creation time
+* mtime : modification time
+
+  * -n : n day or (24 x n)
