@@ -50,3 +50,25 @@ staged한 파일들을 직접적으로 저장소에 올리는 역할.
 * Changes to be committed : 커밋이 되기위한 변경사항 (git add된 파일들)
 * Changes not staged for commit : 변경한 git add 되지 않은 파일들
 * Untracked files : Untracked File은 Git 저장소에는 있지만 Git에 의해서 관리되고 있지 않은 파일입니다.
+
+#### git clone
+
+git 원격 저장소를 로컬로 복제하는 명령어
+
+```
+git clone [원격 저장소] [원격 저장소를 복제할 파일]
+```
+
+위 명령어를 실행하면 빈 파일에 원격 저장소가 복제됨.
+
+그리고 올리려는 파일들을 해당 파일에 넣어줌.
+
+```
+mv [올릴 파일] [원격 저장소가 복제된 파일]
+```
+
+그러면 [원격 저장소가 복제된 파일]에 ls -a 를 해주면 .git 파일이 있는 것을 확인할 수 있음.
+
+이후 [원격 저장소가 복제된 파일]로 이동하여 git add* 를 해서 stage를 해준다.
+
+마지막으로 git push 해주면 원격 저장소에 올라감.
