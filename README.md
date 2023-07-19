@@ -31,4 +31,5 @@
  - 2023-07-18 [git clone](https://github.com/zeromin41/TIL/blob/main/git/git01.md)
 
 ## shell
- - 2023-7-19 [쉘 기본]()
+ - 2023-7-19 [쉘 기본](https://github.com/zeromin41/TIL/blob/main/shell/shell00.md)
+
