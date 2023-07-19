@@ -29,3 +29,6 @@
 ## git
  - 2023-07-17 [git 기본 명령어](https://github.com/zeromin41/TIL/blob/main/git/git00.md)
  - 2023-07-18 [git clone](https://github.com/zeromin41/TIL/blob/main/git/git01.md)
+
+## shell
+ - 2023-7-19 [쉘 기본]()
