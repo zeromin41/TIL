@@ -34,4 +34,4 @@
  - 2023-07-19 [쉘 기본](https://github.com/zeromin41/TIL/blob/main/shell/shell00.md)
 
 ## C
- - 2023-07-20 [c 기초](C)
+ - 2023-07-20 [c 기초](https://github.com/zeromin41/TIL/blob/main/C/C00.md)
