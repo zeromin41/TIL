@@ -26,10 +26,12 @@
  - 2023-07-14 [리스트](https://github.com/zeromin41/TIL/blob/main/Python/Python03.md)
  - 2023-07-15 [range()](https://github.com/zeromin41/TIL/blob/main/Python/Python04.md)
 
-## git
+## Git
  - 2023-07-17 [git 기본 명령어](https://github.com/zeromin41/TIL/blob/main/git/git00.md)
  - 2023-07-18 [git clone](https://github.com/zeromin41/TIL/blob/main/git/git01.md)
 
-## shell
- - 2023-7-19 [쉘 기본](https://github.com/zeromin41/TIL/blob/main/shell/shell00.md)
+## Shell
+ - 2023-07-19 [쉘 기본](https://github.com/zeromin41/TIL/blob/main/shell/shell00.md)
 
+## C
+ - 2023-07-20 [c 기초](C)
