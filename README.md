@@ -35,4 +35,5 @@
 
 ## C
  - 2023-07-20 [c 기초](https://github.com/zeromin41/TIL/blob/main/C/C00.md)
- - 2023-07-21 [c 기본 구문](https://github.com/zeromin41/TIL/blob/main/C/C01.md)
+ - 2023-07-21 [기본 구문](https://github.com/zeromin41/TIL/blob/main/C/C01.md)
+ - 2023-07-22 [배열,포인터](https://github.com/zeromin41/TIL/blob/main/C/C02.md)
