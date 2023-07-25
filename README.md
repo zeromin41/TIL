@@ -16,6 +16,7 @@
  - 2023-07-19 [쉘 기본](https://github.com/zeromin41/TIL/blob/main/shell/shell00.md)
  - 2023-07-23 [파일, 디렉토리 이동](https://github.com/zeromin41/TIL/blob/main/shell/shell01.md)
  - 2023-07-24 [cat, diff 명령어](https://github.com/zeromin41/TIL/blob/main/shell/shell02.md)
+ - 2023-07-25 [출력 관련 명령어](https://github.com/zeromin41/TIL/blob/main/shell/shell03.md)
 
 ## C
  - 2023-07-20 [c 기초](https://github.com/zeromin41/TIL/blob/main/C/C00.md)
