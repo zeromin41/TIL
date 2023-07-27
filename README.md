@@ -23,6 +23,7 @@
  - 2023-07-20 [c 기초](https://github.com/zeromin41/TIL/blob/main/C/C00.md)
  - 2023-07-21 [기본 구문](https://github.com/zeromin41/TIL/blob/main/C/C01.md)
  - 2023-07-22 [배열,포인터](https://github.com/zeromin41/TIL/blob/main/C/C02.md)
+ - 2023-07-27 [rush00팀플](https://github.com/zeromin41/TIL/blob/main/C/C03.md)
 
 ## 파이썬
  - 2023-07-11 [변수](https://github.com/zeromin41/TIL/blob/main/Python/Python00.md)
@@ -42,4 +43,3 @@
  - 2023-07-08 [UI 기본](https://github.com/zeromin41/TIL/blob/main/C%23/C%2307.md)
  - 2023-07-09 [UI Toggle](https://github.com/zeromin41/TIL/blob/main/C%23/C%2308.md)
  - 2023-07-10 [메서드 호출](https://github.com/zeromin41/TIL/blob/main/C%23/C%2309.md)
- - 
