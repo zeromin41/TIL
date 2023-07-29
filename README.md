@@ -22,7 +22,7 @@
 ## C
  - 2023-07-20 [c 기초](https://github.com/zeromin41/TIL/blob/main/C/C00.md)
  - 2023-07-21 [기본 구문](https://github.com/zeromin41/TIL/blob/main/C/C01.md)
- - 2023-07-22 [배열,포인터](https://github.com/zeromin41/TIL/blob/main/C/C02.md)
+ - 2023-07-22 [배열,포인터 개념](https://github.com/zeromin41/TIL/blob/main/C/C02.md)
  - 2023-07-27 [rush00팀플](https://github.com/zeromin41/TIL/blob/main/C/C03.md)
  - 2023-07-28 [포인터 기초](https://github.com/zeromin41/TIL/blob/main/C/C04.md)
  - 2023-07-29 [아스키코드](https://github.com/zeromin41/TIL/blob/main/C/C05.md)
