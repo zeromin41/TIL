@@ -26,6 +26,7 @@
  - 2023-07-27 [rush00팀플](https://github.com/zeromin41/TIL/blob/main/C/C03.md)
  - 2023-07-28 [포인터 기초](https://github.com/zeromin41/TIL/blob/main/C/C04.md)
  - 2023-07-29 [아스키코드](https://github.com/zeromin41/TIL/blob/main/C/C05.md)
+ - 2023-07-30 [포인터와 배열](https://github.com/zeromin41/TIL/blob/main/C/C06.md)
 
 ## 파이썬
  - 2023-07-11 [변수](https://github.com/zeromin41/TIL/blob/main/Python/Python00.md)
