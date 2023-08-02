@@ -18,7 +18,7 @@
  - 2023-07-24 [cat, diff 명령어](https://github.com/zeromin41/TIL/blob/main/shell/shell02.md)
  - 2023-07-25 [출력 관련 명령어](https://github.com/zeromin41/TIL/blob/main/shell/shell03.md)
  - 2023-07-26 [정규표현식,sed](https://github.com/zeromin41/TIL/blob/main/shell/shell04.md)
- - 2023-08-02 [echo, xargs] (https://github.com/zeromin41/TIL/blob/main/shell/shell05.md)
+ - 2023-08-02 [echo, xargs](https://github.com/zeromin41/TIL/blob/main/shell/shell05.md)
 
 ## C
  - 2023-07-20 [c 기초](https://github.com/zeromin41/TIL/blob/main/C/C00.md)
