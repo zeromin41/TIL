@@ -31,6 +31,7 @@
  - 2023-07-31 [argc, argv[]](https://github.com/zeromin41/TIL/blob/main/C/C07.md)
  - 2023-08-01 [문자열 포인터로 받기 예시](https://github.com/zeromin41/TIL/blob/main/C/C08.md)
  - 2023-08-03 [strcpy()함수](https://github.com/zeromin41/TIL/blob/main/C/C09.md)
+ - 2023-08-04 [printf()함수](https://github.com/zeromin41/TIL/blob/main/C/C10.md)
 ## 파이썬
  - 2023-07-11 [변수](https://github.com/zeromin41/TIL/blob/main/Python/Python00.md)
  - 2023-07-12 [객체](https://github.com/zeromin41/TIL/blob/main/Python/Python01.md)
