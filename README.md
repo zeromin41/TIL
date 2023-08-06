@@ -33,6 +33,7 @@
  - 2023-08-03 [strcpy()함수](https://github.com/zeromin41/TIL/blob/main/C/C09.md)
  - 2023-08-04 [printf()함수](https://github.com/zeromin41/TIL/blob/main/C/C10.md)
  - 2023-08-05 [switch 구문 기초](https://github.com/zeromin41/TIL/blob/main/C/C11.md)
+ - 2023-08-06 [for중첩문 기초](https://github.com/zeromin41/TIL/blob/main/C/C12.md)
 ## 파이썬
  - 2023-07-11 [변수](https://github.com/zeromin41/TIL/blob/main/Python/Python00.md)
  - 2023-07-12 [객체](https://github.com/zeromin41/TIL/blob/main/Python/Python01.md)
