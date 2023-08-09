@@ -36,6 +36,7 @@
  - 2023-08-06 [for중첩문 기초](https://github.com/zeromin41/TIL/blob/main/C/C12.md)
  - 2023-08-07 [atoi()함수](https://github.com/zeromin41/TIL/blob/main/C/C13.md)
  - 2023-08-08 [회문판별](https://github.com/zeromin41/TIL/blob/main/C/C14.md)
+ - 2023-08-09 [구조체 개념](https://github.com/zeromin41/TIL/blob/main/C/C15.md)
 ## 파이썬
  - 2023-07-11 [변수](https://github.com/zeromin41/TIL/blob/main/Python/Python00.md)
  - 2023-07-12 [객체](https://github.com/zeromin41/TIL/blob/main/Python/Python01.md)
