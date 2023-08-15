@@ -48,6 +48,7 @@
  - 2023-07-15 [range()](https://github.com/zeromin41/TIL/blob/main/Python/Python04.md)
  - 2023-08-13 [리스트와 튜플](https://github.com/zeromin41/TIL/blob/main/Python/Python05.md)
  - 2023-08-14 [함수선언](https://github.com/zeromin41/TIL/blob/main/Python/Python06.md)
+ - 2023-08-15 [문자열처리함수](https://github.com/zeromin41/TIL/blob/main/Python/Python07.md)
 
 ## 유니티-C#
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%23/C%2300.md)
