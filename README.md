@@ -50,6 +50,7 @@
  - 2023-08-14 [함수선언](https://github.com/zeromin41/TIL/blob/main/Python/Python06.md)
  - 2023-08-15 [문자열처리함수](https://github.com/zeromin41/TIL/blob/main/Python/Python07.md)
  - 2023-08-16 [딕셔너리 자료형](https://github.com/zeromin41/TIL/blob/main/Python/Python08.md)
+ - 2023-08-17 [넘파이 기초](https://github.com/zeromin41/TIL/blob/main/Python/Python09.md)
 
 ## 유니티-C#
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%23/C%2300.md)
