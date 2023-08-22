@@ -55,6 +55,7 @@
  - 2023-08-19 [2차원 어레이](https://github.com/zeromin41/TIL/blob/main/Python/Python11.md)
  - 2023-08-20 [reshape 메서드](https://github.com/zeromin41/TIL/blob/main/Python/Python12.md)
  - 2023-08-21 [팬시인덱싱](https://github.com/zeromin41/TIL/blob/main/Python/Python13.md)
+ - 2023-08-22 [파이썬예제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python14.md)
 
 ## 유니티-C#
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%23/C%2300.md)
