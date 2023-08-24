@@ -57,6 +57,7 @@
  - 2023-08-21 [팬시인덱싱](https://github.com/zeromin41/TIL/blob/main/Python/Python13.md)
  - 2023-08-22 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python14.md)
  - 2023-08-23 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python15.md)
+ - 2023-08-24 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python16.md)
 
 ## 유니티-C#
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%23/C%2300.md)
