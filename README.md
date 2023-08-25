@@ -58,6 +58,7 @@
  - 2023-08-22 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python14.md)
  - 2023-08-23 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python15.md)
  - 2023-08-24 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python16.md)
+ - 2023-08-25 [파이썬문제풀이](https://github.com/zeromin41/TIL/blob/main/Python/Python17.md)
 
 ## 유니티-C#
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%23/C%2300.md)
