@@ -11,6 +11,7 @@
 ## Git
  - 2023-07-17 [git 기본 명령어](https://github.com/zeromin41/TIL/blob/main/git/git00.md)
  - 2023-07-18 [git clone](https://github.com/zeromin41/TIL/blob/main/git/git01.md)
+ - 2023-08-26 [git commit 명령어모음](https://github.com/zeromin41/TIL/blob/main/git/git02.md)
 
 ## Shell
  - 2023-07-19 [쉘 기본](https://github.com/zeromin41/TIL/blob/main/shell/shell00.md)
