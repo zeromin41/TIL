@@ -64,6 +64,7 @@
  - 2023-08-27 [용어정리](https://github.com/zeromin41/TIL/blob/main/Python/Python18.md)
  - 2023-08-29 [브로드캐스팅](https://github.com/zeromin41/TIL/blob/main/Python/Python19.md)
  - 2023-08-30 [데이터프레임](https://github.com/zeromin41/TIL/blob/main/Python/Python20.md)
+ - 2023-08-31 [iloc & loc](https://github.com/zeromin41/TIL/blob/main/Python/Python21.md)
 
 ## 유니티-C#
  - 2023-07-01 [기본 문법](https://github.com/zeromin41/TIL/blob/main/C%23/C%2300.md)
